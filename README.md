@@ -1,5 +1,6 @@
 # Car-recommender
-python car recommender command line tool
+python car recommender command line tool 
+Recommend cars based on your given price and year
 
 ## Requirements:
 * re
@@ -7,3 +8,11 @@ python car recommender command line tool
 * mysql.connector
 * BeautifulSoup
 * sklearn
+
+## How to use?
+At first you have to install mariadb and configure database and password
+
+## Usage
+```bash
+$ python3 fetchdata.py
+$ python3 decision_tree.py
