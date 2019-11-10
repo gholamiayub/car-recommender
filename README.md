@@ -1,2 +1,9 @@
-# car-recommender
-command line tool for recommend car
+# Car-recommender
+python car recommender command line tool
+
+## Requirements:
+* re
+* requests
+* mysql.connector
+* BeautifulSoup
+* sklearn
