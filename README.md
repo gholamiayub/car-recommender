@@ -1,6 +1,5 @@
 # Car-recommender
-python car recommender command line tool 
-Recommend cars based on your given price and year
+python car recommender command line tool | Recommend cars based on your given price and year
 
 ## Requirements:
 * re
