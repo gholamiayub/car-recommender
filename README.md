@@ -10,7 +10,7 @@ Recommend cars based on your given price and year
 * sklearn
 
 ## How to use?
-At first you have to install mariadb and configure database and password
+At first you have to install mariadb and configure database 
 
 ## Usage
 ```bash
