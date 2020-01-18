@@ -6,9 +6,9 @@ from bs4 import BeautifulSoup
 
 mydb = mysql.connector.connect(
     host="127.0.0.1",
-    user="ayub", # your database username
-    passwd="admin", # your database password
-    database="bama", # your database name
+    user="", # your database username
+    passwd="", # your database password
+    database="", # your database name
 )
 
 list_items, information, list_years = [], [], []
