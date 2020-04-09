@@ -21,8 +21,7 @@ for (model, year, price, iD) in cursor:
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(x, y)
 car_price, car_year = tuple(map(int, input('Please enter price and year >>>\n').split()))
-print('''>>>These models range from -5,000 to +5,000
->>>your chosen price\n''')
+print('''>>>These models range from -5,000 to +5,000 >>> your chosen price\n''')
 prices = -5000
 num = 0
 for item in range(0, 11000, 1000):
